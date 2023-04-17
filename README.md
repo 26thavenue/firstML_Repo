@@ -5,3 +5,5 @@
  List of Projects I might work on :
  House Prediction
  Heart rate failure 
+
+Might work on some neural network and computer vision , just basically documenting my journey
