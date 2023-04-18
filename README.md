@@ -7,3 +7,5 @@
  Heart rate failure 
 
 Might work on some neural network and computer vision , just basically documenting my journey
+
+Just want to keep the streaks at this point
